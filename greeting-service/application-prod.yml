@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: "Salve"
+  greeting: "Olá"
   default-value: "Mundo"
